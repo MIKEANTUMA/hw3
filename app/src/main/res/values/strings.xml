@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="question1">What year did Christopher Columbus sail the ocean to america?</string>
+    <string name="money">0</string>
+</resources>
